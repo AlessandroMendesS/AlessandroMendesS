@@ -21,7 +21,7 @@
 
   <h3>📚 Learning & Development</h3>
   <div>
-    <img src="https://skillicons.dev/icons?i=typescript,spring,mongodb" alt="Technologies in Development"/>
+    <img src="https://skillicons.dev/icons?i=typescript,spring,mongodb,postman" alt="Technologies in Development"/>
   </div>
 
   <h3>⚙️ Development Tools</h3>
